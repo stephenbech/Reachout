@@ -1,0 +1,8 @@
+<!
+zone
+church
+group
+
+personal-title-email-kingschatnumber-name  
+event fetching
+fetch the activity

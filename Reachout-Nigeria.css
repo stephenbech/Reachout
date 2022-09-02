@@ -1,0 +1,11 @@
+:root{
+    background-color: green;
+}
+
+.container{
+    background-color:white;
+    width: auto;
+    margin: 50px;
+    border: 8px solid  whitesmoke;
+    height: 700px;
+}
